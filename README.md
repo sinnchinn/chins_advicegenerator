@@ -4,6 +4,6 @@
 
 // random advice generator
 
-// peer reviewer:
+// peer reviewer: Bronel Lazar
 
-// comments:
+// comments: The website is spectacular, looks great. The only thing is that the box containing the advice appears to be a little too wide, and there's no mobile resoinsiveness.

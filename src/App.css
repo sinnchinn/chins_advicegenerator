@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgba(32, 38, 50, 1);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+.greenText {
+  color: rgba(82, 254, 169, 1);
+  text-align: center;
+  letter-spacing: 5px;
+  font-size: 10px;
+  padding-bottom: 20px;
+}
+
+.mainText {
+  color: rgba(183, 204, 210, 1);
+  text-align: center;
+  font-size: 25px;
+  padding-bottom: 40px;
+}
+
+.boxBorder {
+  background-color: rgba(49, 58, 73, 1);
+  width: 550px;
+  border-radius: 20px;
+  padding: 30px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.diceBtn {
+  background-color: rgba(82, 254, 169, 1);
+  border-radius: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 15px;
+  padding-top: 12px;
+  margin-top: 30px;
+}
+
+.diceDiv {
+  margin-bottom: -60px;
+}
+
+
+
+
